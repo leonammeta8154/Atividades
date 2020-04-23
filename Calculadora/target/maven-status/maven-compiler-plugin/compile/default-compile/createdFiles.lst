@@ -1,0 +1,4 @@
+cliente\InterfaceOperacoes.class
+servidor\Calculadora.class
+cliente\IniciarCliente.class
+servidor\IniciarServidor.class
